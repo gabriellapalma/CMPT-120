@@ -6,7 +6,9 @@
 
 def main():
 
-color = blue
+ color = "blue"
+
+ print(color)
 
 
     
