@@ -6,13 +6,20 @@
 
 
  
-def main():
-print("Hello world")
+print("hello world!")
+var1= "pink"
+print("my favorite color is", var1)
+
+var2= ("september 14")
+print("my birthday is", var2)
+
+
+
+
 
 
     
     
     
     
-    
-main()
+
