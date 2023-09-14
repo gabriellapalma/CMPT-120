@@ -7,7 +7,7 @@
 
  
 def main():
-print("Hellow orld")
+print("Hello world")
 
 
     
