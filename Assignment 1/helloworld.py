@@ -6,6 +6,7 @@
 
 def main():
 
+color = blue
 
 
     
