@@ -8,4 +8,3 @@ elif var1 == 10:
 else:
     print("10 is less than 10")
 
-
